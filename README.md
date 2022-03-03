@@ -20,7 +20,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão 3.10 do Python e o WebDriver para Chorme 98
 * Você tem uma máquina Windows. Não testado para os demais.
-* Você instalou as bibliotecas: Selenium e Time.
+* Você instalou as bibliotecas: Selenium e Time
 
 
 ## 📫 Contribuindo para Salvar Notas PMV
