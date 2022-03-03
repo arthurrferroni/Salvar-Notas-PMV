@@ -1,7 +1,7 @@
 # Salvar Notas PMV
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/arthurrferroni/Salvar-Notas-PMV?style=for-the-badge)
-
+![GitHub repo size](https://img.shields.io/github/issues/arthurrferroni/Salvar-Notas-PMV?style=for-the-badge)
 
 
 
