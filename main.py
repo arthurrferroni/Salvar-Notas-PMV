@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 
 # Mudar pasta de download do webdriver
 options = webdriver.ChromeOptions()
-prefs = {"download.default_directory": r"C:\"}
+prefs = {"download.default_directory": r"C:\""}
 options.add_experimental_option("prefs", prefs)
 
 # Desabilita o PDF Viewer do Chrome
